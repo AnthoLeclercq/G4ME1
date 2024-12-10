@@ -3,4 +3,5 @@
 *.cpp linguist-language=ignore
 *.c linguist-language=ignore
 *.aspx linguist-language=ignore
+*.shader linguist-language=ignore
 *.h linguist-language=ignore
