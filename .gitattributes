@@ -2,5 +2,5 @@
 
 *.cpp linguist-language=ignore
 *.c linguist-language=ignore
-*.h linguist-language=ignore
 *.aspx linguist-language=ignore
+*.h linguist-language=ignore
