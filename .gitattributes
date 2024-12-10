@@ -1,5 +1,5 @@
 *.cs linguist-language=C#
 
-*.c linguist-language=ignore
 *.cpp linguist-language=ignore
+*.c linguist-language=ignore
 *.h linguist-language=ignore
